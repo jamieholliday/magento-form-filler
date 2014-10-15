@@ -2,8 +2,152 @@
   "name": "magento-form-filler",
   "title": "magento-form-filler",
   "id": "jid1-salQzqbL2BcBiw",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Dummy data for Magento checkout and registration forms",
+  "author": "Jamie Holliday",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1",
+  "preferences": [{
+  	"name": "email",
+  	"title": "Email",
+  	"type": "string",
+  	"value": "test@test.com"
+  },
+  {
+  	"name": "password",
+  	"title": "Password",
+  	"type": "string",
+  	"value": "password"
+  },
+  {
+  	"name": "firstname",
+  	"title": "Firstname",
+  	"type": "string",
+  	"value": "John"
+  },
+  {
+  	"name": "lastname",
+  	"title": "Lastname",
+  	"type": "string",
+  	"value": "Smith"
+  },
+  {
+  	"name": "telephone",
+  	"title": "Telephone",
+  	"type": "string",
+  	"value": "00000 000 000"
+  },
+  {
+  	"name": "street",
+  	"title": "Billing - Street",
+  	"type": "string",
+  	"value": "1 Some Street"
+  },
+  {
+  	"name": "city",
+  	"title": "Billing - City",
+  	"type": "string",
+  	"value": "1 Some City"
+  },
+  {
+  	"name": "country_id",
+  	"title": "Billing - Country",
+  	"type": "string",
+  	"value": "UK"
+  },
+  {
+  	"name": "region",
+  	"title": "Billing - Region",
+  	"type": "string",
+  	"value": "Essex"
+  },
+  {
+  	"name": "postcode",
+  	"title": "Billing - Postcode",
+  	"type": "string",
+  	"value": "W1 1AA"
+  },
+  {
+  	"name": "shipping[firstname]",
+  	"title": "Shipping - Firstname",
+  	"type": "string",
+  	"value": "John"
+  },
+  {
+  	"name": "shipping[lastname]",
+  	"title": "Shipping - Lastname",
+  	"type": "string",
+  	"value": "Smith"
+  },
+  {
+  	"name": "shipping[telephone]",
+  	"title": "Shipping - Telephone",
+  	"type": "string",
+  	"value": "00000 000 000"
+  },
+  {
+  	"name": "shipping[street][]",
+  	"title": "Shipping - Street",
+  	"type": "string",
+  	"value": "1 Some Street"
+  },
+  {
+  	"name": "shipping[city]",
+  	"title": "Shipping - City",
+  	"type": "string",
+  	"value": "1 Some City"
+  },
+  {
+  	"name": "shipping[country_id]",
+  	"title": "Shipping - Country",
+  	"type": "string",
+  	"value": "UK"
+  },
+  {
+  	"name": "shipping[region_id]",
+  	"title": "Shipping - County",
+  	"type": "string",
+  	"value": "Essex"
+  },
+  {
+  	"name": "shipping[postcode]",
+  	"title": "Shipping - Postcode",
+  	"type": "string",
+  	"value": "W1 1AA"
+  },
+  {
+  	"name": "cc_owner",
+  	"title": "Payment - Owner Name",
+  	"type": "string",
+  	"value": "Visa Test"
+  },
+  {
+  	"name": "cc_number",
+  	"title": "Payment - Card Number",
+  	"type": "string",
+  	"value": "4111 1111 1111 1111"
+  },
+  {
+  	"name": "cc_type",
+  	"title": "Payment - Card Type",
+  	"type": "string",
+  	"value": "Visa"
+  },
+  {
+  	"name": "cc_exp_month",
+  	"title": "Payment - Exp. Month",
+  	"type": "string",
+  	"value": "06"
+  },
+  {
+  	"name": "cc_exp_year",
+  	"title": "Payment - Exp. Year",
+  	"type": "string",
+  	"value": "2016"
+  },
+  {
+  	"name": "cc_cid",
+  	"title": "Payment - CVV",
+  	"type": "string",
+  	"value": "737"
+  }]
 }
