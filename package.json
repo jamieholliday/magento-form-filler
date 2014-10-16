@@ -4,7 +4,7 @@
   "id": "jid1-salQzqbL2BcBiw",
   "description": "Dummy data for Magento checkout and registration forms",
   "author": "Jamie Holliday",
-  "license": "MPL 2.0",
+  "license": "MIT",
   "version": "0.1",
   "preferences": [{
   	"name": "email",
