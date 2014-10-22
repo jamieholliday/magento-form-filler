@@ -19,6 +19,12 @@
   	"value": "password"
   },
   {
+    "name": "prefix",
+    "title": "Prefix",
+    "type": "string",
+    "value": "Mr"
+  },
+  {
   	"name": "firstname",
   	"title": "Firstname",
   	"type": "string",
