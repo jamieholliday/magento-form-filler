@@ -6,3 +6,6 @@ It comes with a set of dummy data that can be customised from the addons prefere
 
 This is a port of the chrome extension:
 https://github.com/Jman/opc_form
+
+Mozilla Addons:
+https://addons.mozilla.org/en-US/firefox/addon/magento-form-filler/
